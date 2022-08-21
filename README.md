@@ -3,7 +3,7 @@
 * Cross Platform Telegram Members Scraping and Adding Toolkit
 
 <h3 align="center">For Developers 👨‍💻</h3>
-<p align='center'><samp>Open Pull Requests for improvement in code and become a contributor</samp></p>
+<p align='center'><samp>REACH ME</samp></p>
 
 <h3 align="center">Usage 🕹</h3>
 
