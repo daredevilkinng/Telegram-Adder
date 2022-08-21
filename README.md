@@ -77,7 +77,7 @@ And then Adding Members By using the same Sim.py
 </p>
 <p align="center">
   <a href="https://www.youtube.com/watch?v=P4Jeq9W23UI">
-    <img src="https://www.iconsdb.com/icons/preview/green/youtube-4-xxl.png" width="40" height="40">
+    <img src="https://www.iconsdb.com/icons/preview/white/youtube-4-xxl.png" width="40" height="40">
   </a>
 </p>
 
