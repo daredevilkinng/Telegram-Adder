@@ -73,7 +73,7 @@ And then Adding Members By using the same Sim.py
 
 
 <p align="center">
-  Follow Me On YouTube
+  Follow Me On YouTube for Demo/Instructional Videos of Scripts
 </p>
 <p align="center">
   <a href="https://www.youtube.com/watch?v=P4Jeq9W23UI">
