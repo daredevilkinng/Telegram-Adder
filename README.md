@@ -1,4 +1,4 @@
-<h3 align="center">Telegram Tool Devil</h3>
+<h3 align="center">Telegram Adder</h3>
 
 * Cross Platform Telegram Members Scraping and Adding Toolkit
 
@@ -82,4 +82,4 @@ And then Adding Members By using the same Sim.py
 </p>
 
 <h3 align="center">Visitors Counts👀</h3>
-<a href="https://github.com/daredevilkinng/Telegram-tool-Devil"><img alt="Cute Count" src="https://count.getloli.com/get/@Telegram-tool-Devil?theme=rule34" /></a>
+<a href="https://github.com/daredevilkinng/Telegram-Adder"><img alt="Cute Count" src="https://count.getloli.com/get/@Telegram-Adder?theme=rule34" /></a>
