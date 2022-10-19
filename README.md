@@ -66,10 +66,10 @@ python sim.py
 And then Adding Members By using the same Sim.py
 
 
-<h3 align="center">CONTACT ME ON TELEGRAM:- https://t.me/daredevilkinng</h3>
+<h3 align="center">CONTACT ME ON TELEGRAM:- https://t.me/pythonshadow</h3>
 
 <h3 align="center">Support</h3>
-<a href="https://t.me/daredevilkinng"><img src="https://img.shields.io/badge/Contact%20Owner-cyan.svg?logo=Telegram"></a>
+<a href="https://t.me/pythonshadow"><img src="https://img.shields.io/badge/Contact%20Owner-cyan.svg?logo=Telegram"></a>
 
 
 <p align="center">
@@ -82,4 +82,4 @@ And then Adding Members By using the same Sim.py
 </p>
 
 <h3 align="center">Visitors Counts👀</h3>
-<a href="https://github.com/daredevilkinng/Telegram-Adder"><img alt="Cute Count" src="https://count.getloli.com/get/@Telegram-Adder?theme=rule34" /></a>
+<a href="https://github.com/github.com/Shadow7Fox/Telegram-Adder"><img alt="Cute Count" src="https://count.getloli.com/get/@Telegram-Adder?theme=rule34" /></a>
